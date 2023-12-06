@@ -1,3 +1,4 @@
+//imports
 import { Badge } from "./badge";
 import { ComponentProps } from "react";
 import { CATEGORY_ICON } from "@/constants/category-item";
